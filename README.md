@@ -19,6 +19,11 @@ To change your theme:
 * choose the 'Martinsoft' theme to apply.
 
 
+## Updates 
+
+I make tweaks to this theme every now and again, so Star this repo if you'd like to see updates.
+
+
 ## Support
 
 If you enjoy this theme, please let me know on [Instagram (@martinsoft)](https://instagram.com/martinsoft)! 
