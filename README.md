@@ -11,7 +11,7 @@ This theme sits somewhere between the default 'Dusk' and 'Midnight' themes, but 
 
 ## Installation
 
-To install, copy the `.xccolortheme` file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes` and restart Xcode.
+Copy the `.xccolortheme` file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes` and restart Xcode.
 
 To change your theme:
 * open Xcode
