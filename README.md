@@ -18,6 +18,11 @@ To change your theme:
 * select Xcode > Preferences... > Fonts & Colors 
 * choose the 'Martinsoft' theme to apply.
 
-If you enjoy this theme, please let me know on [Instagram (@martinsoft)](https://instagram.com/martinsoft)! Feel free to tag me in any images where you are using my theme! I'd love to see it in action! 😊
+
+## Support
+
+If you enjoy this theme, please let me know on [Instagram (@martinsoft)](https://instagram.com/martinsoft)! 
+
+Feel free to tag me in any images where you are using my theme! I'd love to see it in action! 😊
 
 
