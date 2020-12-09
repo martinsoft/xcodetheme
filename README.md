@@ -5,6 +5,8 @@ Martinsoft Theme for Xcode IDE.
 
 A dark but vibrant theme for Xcode, with retro-style blocky cursors and green-screen style console output.
 
+![Martinsoft Xcode theme example](resources/martinsoft-theme.png)
+
 This theme sits somewhere between the default 'Dusk' and 'Midnight' themes, but with blocky cursors, changes to the selection style, and changes to the console formatting. 
 
 ## Installation
